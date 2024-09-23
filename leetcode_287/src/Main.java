@@ -1,7 +1,3 @@
-package main.java;
-
-import java.lang.reflect.Array;
-
 public class Main {
     public static void main(String[] args) {
         Solution solution = new Solution();
@@ -9,4 +5,3 @@ public class Main {
         System.out.println(solution.findDuplicate(nums));
     }
 }
-
